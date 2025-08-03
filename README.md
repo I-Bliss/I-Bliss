@@ -1,7 +1,7 @@
 ## Hi there 👋
+I am Ilupeju Blessing Taiwo, a Data Enthusiast, Virtual Assistant and Analyst who is proactive and passionate about transforming raw or structured data into actionable insights to drive valuable business decisions and growth.
 
-<!--
-**I-Bliss/I-Bliss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am skilled in Microsoft Excel, SQL, PowerBI and Exploratory Data Analysis  (EDA), I thrive to help business owners and entrepreneurs solve real life problems through strategic operations and analytics
 
 Here are some ideas to get you started:
 
