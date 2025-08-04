@@ -8,7 +8,7 @@
 
 🔗 On this Github account, you'll find
 
--+ Datasets for Extraction, Manipulation and Transformation 
++ Datasets for Extraction, Manipulation and Transformation 
 -+ Formular driven reports and Excel Dashboards 
 -+ SQL queries for data analysis 
 -+ PowerBI visuals and interactive dashboards 
