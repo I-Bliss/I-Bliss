@@ -18,7 +18,8 @@
 
 ✨️ Walkthrough of past projects on data visualization and Analysis
 
-☺️ Fun fact
+☺️ Fun Facts About Me 
+
 ✨️ I love reading and writing poems
 
 ✨️ I can go without eating in a day as long as I have movies
