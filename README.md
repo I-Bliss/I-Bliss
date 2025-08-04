@@ -6,16 +6,26 @@
 
 👩‍💻 As a Virtual Assistant and Data Analyst, I'm passionate about helping businesses and individuals streamline their operations, gain insights from their data, and achieve their goals. 
 
-🔗 On this Github account, you'll find
+📚📊 On this Github account, you'll find
 
-+ Datasets for Extraction, Manipulation and Transformation 
--+ Formular driven reports and Excel Dashboards 
--+ SQL queries for data analysis 
--+ PowerBI visuals and interactive dashboards 
--+ Walkthrough of past projects on data visualization and Analysis
-- 
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✨️ Datasets for Extraction, Manipulation and Transformation
+
+✨️ Formular driven reports and Excel Dashboards
+
+✨️ SQL queries for data analysis
+
+✨️ PowerBI visuals and interactive dashboards
+
+✨️ Walkthrough of past projects on data visualization and Analysis
+
+☺️ Fun fact
+✨️ I love reading and writing poems
+✨️ I can go without eating in a day as long as I have movies
+✨️ I have weird food combos, Tea is a no
+✨️ I am an intentional and loveable person 
+
+
+ 📫 Let's connect 
+
+Linkedin: https://www.linkedin.com/in/blessingtaiwoilupeju 
+Email: ilupejublessing777@gmail.com
