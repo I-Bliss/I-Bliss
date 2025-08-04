@@ -20,12 +20,16 @@
 
 ☺️ Fun fact
 ✨️ I love reading and writing poems
+
 ✨️ I can go without eating in a day as long as I have movies
+
 ✨️ I have weird food combos, Tea is a no
+
 ✨️ I am an intentional and loveable person 
 
 
  📫 Let's connect 
 
 Linkedin: https://www.linkedin.com/in/blessingtaiwoilupeju 
+
 Email: ilupejublessing777@gmail.com
